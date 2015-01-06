@@ -1,8 +1,8 @@
-CodingPortfolio
+Greetings!
 ===============
 
-Coding portfolio showcasing programs and applications.
-Herein are programs created during my programming studies, inside and outside the classroom.
+This is my (James Quien) coding portfolio.
+Herein are programs and applications created during my programming studies, inside and outside the classroom.
 
 Featured:
 Path Finder (C++)- Search program to efficiently find the shortest path between two points and all checkpoints in a maze
