@@ -5,6 +5,7 @@ This is my (James Quien's) coding portfolio.
 Herein are programs and applications created during my programming studies, inside and outside the classroom.
 
 Featured:
+
 Path Finder (C++)- Search program to efficiently find the shortest path between two points and all checkpoints in a maze
 
 Circuit Simulation (C++) - Program to parse inputs and construct digital circuit and calculate node voltage
