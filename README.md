@@ -8,11 +8,11 @@ Featured:
 
 Path Finder (C++)- Search program to efficiently find the shortest path between two points and all checkpoints in a maze
 
+Hospital Server (C) - Server program to simulate data storing and retrieval for an interhospital system
+
 Circuit Simulation (C++) - Program to parse inputs and construct digital circuit and calculate node voltage
 
 Binary Search Tree (C++) - Binary search tree exercise
-
-Hospital Server (C) - Server program to simulate data storing and retrieval for an interhospital system
 
 Linked List (C) - Linked list exercise
 
