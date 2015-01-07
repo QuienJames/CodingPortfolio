@@ -1,7 +1,7 @@
 Greetings!
 ===============
 
-This is my (James Quien) coding portfolio.
+This is my (James Quien's) coding portfolio.
 Herein are programs and applications created during my programming studies, inside and outside the classroom.
 
 Featured:
