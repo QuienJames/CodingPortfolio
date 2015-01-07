@@ -104,13 +104,16 @@ printf("Enter the number of white pegs in the feedback:");
 scanf("%d",&whites);
 
 dots=length-(blacks+whites);
-*solution=(char*)malloc((length+1)*sizeof(char));
-*key=(char*)malloc((length+1)*sizeof(char));
+char *dom=solution;
+char *range=key;
+
+dom=(char*)malloc(length+1);
+range=(char*)malloc(length+1);
 
 printf("The possible key patterns are:\n");
 PrintPattern(solution,key,0,length,blacks,dots,a,b,c,d,e,f,0,0);
 
-free(solution);
-free(key);
+free(dom);
+free(range);
 return 0;
 }
