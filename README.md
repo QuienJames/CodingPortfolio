@@ -16,9 +16,7 @@ Binary Search Tree (C++) - Binary search tree exercise
 
 Linked List (C) - Linked list exercise
 
-Mastermind (C) - Mastermind game simulation
-
-Mastermind Helper (C) - Mastermind game solution aid
-
 DiveKick (Verilog) - Two player two-button fighting game to be played on a DE2 Board
+
+Programming Fundamental Practices - Practices of basic coding fundamentals
 
