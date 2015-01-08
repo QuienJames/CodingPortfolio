@@ -6,7 +6,7 @@ Herein are programs and applications created during my programming studies, insi
 
 Featured:
 
-Path Finder (C++)- Search program to efficiently find the shortest path between two points and all checkpoints in a maze
+Path Finder (C++) - Search program to efficiently find the shortest path between two points and all checkpoints in a maze
 
 Hospital Server (C) - Server program to simulate data storing and retrieval for an interhospital system
 
