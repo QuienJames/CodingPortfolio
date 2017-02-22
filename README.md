@@ -3,6 +3,7 @@ Greetings!
 
 This is my (James Quien's) coding portfolio.
 Herein are programs and applications created during my programming studies, inside and outside the classroom.
+
 To learn more about me, check out my LinkedIn! https://www.linkedin.com/in/james-anthony-quien-3245baa3/
 
 Featured:
